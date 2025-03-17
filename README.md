@@ -14,6 +14,6 @@ A comprehensive tool for analyzing blockchain security, including transaction an
 
 1. Clone the repository:
 ```bash
-git clone https://github.com/yourusername/blockchain-security-analyzer.git
+git clone https://github.com/syedsha0/blockchain-security-analyzer-.git
 cd blockchain-security-analyzer
 
